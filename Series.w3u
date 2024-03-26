@@ -1,0 +1,51 @@
+{
+    "name": "Movie",
+    "author": "",
+    "url": "https://raw.githubusercontent.com/Terminal-48/Series-nung2hdd/main/Series.w3u",
+    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+  "groups": [
+{
+"name": "ซีรีย์ ปี 2024",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Series-2024.w3u"
+},
+{
+"name": "ซีรีย์ ปี 2023",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Series-2023.w3u"
+},
+{
+"name": "ซีรีย์ Netflix",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Series-netflix-movies.w3u"
+},
+{
+"name": "ซีรีย์ไทย",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Series-thai-movies.w3u"
+},
+{
+"name": "ซีรีย์จีน",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Series-china-movies.w3u"
+},
+{
+"name": "ซีรีย์เกาหลี",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Series-korea-movies"
+},
+{
+"name": "หนังญี่ปุ่น",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Series-japan-movies.w3u"
+},
+{
+"name": "ซีรีย์อินเดีย",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie-nung2hdd/main/Series-cinema-india.w3u"
+}
+
+
+
+]
+}
