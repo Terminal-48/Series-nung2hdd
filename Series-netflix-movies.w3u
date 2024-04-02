@@ -1,10 +1,80 @@
 {
-  "name": "ซีรีย์ใหม่ หนัง Netflix ",
-  "author": "",
+  "name": "ซีรีย์ Netflix",
+  "author": "อัพเดท 02/04/2024",
   "info": "",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Series-nung2hdd/main/Series-netflix-movies.w3u",
   "groups": [
+    {
+      "name": "The Believers สาธุ (2024) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a92098de-1182-5796-9d4a-7ff78952e5aa.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/5ed901eb-6734-5bfa-b96a-b1d1e81efe66.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e4585582-81d2-58ef-b7b6-dbb20c15e6fa.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9789dd46-6f97-515c-80d3-b1cff6f7c89a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a757ef07-99b7-53d6-911c-ad84547d58a6.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/5e282810-be7f-5c65-9a0c-631ba008f5b5.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/40ae3974-8df9-5562-8c5a-352a389fe1f2.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/dd4425e1-21c0-5dd5-ba15-c210fba974fb.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/The-Believers.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b4010bbe-fc0b-584c-b1f5-e7c75d71b0bb.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
     {
       "name": "3 Body Problem ดาวซานถี่ อุบัติการณ์สงครามล้างโลก (2024) [Full]",
       "info": "HD Thai",
@@ -636,6 +706,97 @@
       ]
     },
     {
+      "name": "Like Flowers in Sand ดอกไม้สังเวียนทราย (2023) [Full]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Like-Flowers-in-Sand.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Like-Flowers-in-Sand.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/5658bfc2-0818-5566-9bfd-b216f214c5c1.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Like-Flowers-in-Sand.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9930fc12-0460-59ae-b8d2-a53180246fb0.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Like-Flowers-in-Sand.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/bfeef4b3-e78a-5834-ae73-205cc6a2cb6f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Like-Flowers-in-Sand.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7008c5e7-2bd1-5208-8c47-e63e16dd93d5.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Like-Flowers-in-Sand.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/813b4263-3ade-513a-9853-21ef70e61ce7.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Like-Flowers-in-Sand.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ad485a18-fc2e-5ac5-ac67-4b9159ef2a03.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Like-Flowers-in-Sand.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e1201cc3-9fd1-5665-8828-4a5c684c6ea0.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Like-Flowers-in-Sand.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/04477d00-de2a-52c6-8e79-2d20fdc5d2b1.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Like-Flowers-in-Sand.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e2c28a81-721c-51b7-9d0f-9c52c502d483.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Like-Flowers-in-Sand.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/dddb5c33-26db-581c-9a97-19c44bbc5261.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Like-Flowers-in-Sand.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/33e5aa0e-8e0e-5cd8-bcab-85dc3124de12.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Like-Flowers-in-Sand.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/517e98e6-1f1d-528f-9e10-c0675af7af61.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
       "name": "Ready, Set, Love เกมชนคนโสด (2024) [Full]",
       "info": "HD Thai",
       "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Ready-Set-Love.jpg",
@@ -855,6 +1016,139 @@
           "info": "Sub",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Alexander-The-Making-of-a-God.png",
           "url": "https://sgcdnseriesn.xyz/view/aa8ff312-95a3-5212-b251-735e086af548.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Griselda เจ้าแม่โคเคน (2024) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Griselda.png",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Griselda.png",
+          "url": "https://sgcdnseriesn.xyz/view/36d5b250-ac63-5ba3-b8bb-3ef9e742ce76.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Griselda.png",
+          "url": "https://sgcdnseriesn.xyz/view/0e237198-659b-5b81-b49e-64c496898894.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Griselda.png",
+          "url": "https://sgcdnseriesn.xyz/view/f3cd5344-1738-5459-ae28-6c2c9e16413b.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Griselda.png",
+          "url": "https://sgcdnseriesn.xyz/view/5e5c35c8-b35b-5569-b744-db733c6885b1.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Griselda.png",
+          "url": "https://sgcdnseriesn.xyz/view/364c2f85-9e41-5d33-a2bd-0631ae3eff5c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Griselda.png",
+          "url": "https://sgcdnseriesn.xyz/view/b1c5e4f0-f163-5740-b0db-2714ad8dc877.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Single’s Inferno Season 3 โอน้อยออก ใครโสดตกนรก ซีซัน 3 (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS3-1.jpg",
+      "stations": [
+        {
+          "name": "Season 3-ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS3-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/57cc3e90-b8d2-509c-8a8d-5c2808ab0404.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS3-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/5e694b24-83e8-5b11-88b0-8e450b9ace6f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS3-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/f0c5bc9d-1f18-56df-91e9-486670fe27a0.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS3-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b8e56ba3-af41-5650-8817-f161b7917529.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS3-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4b67c00e-a926-5448-9b2e-5dbdde5a0540.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS3-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/fca3dcd2-488b-54e1-92c9-cb861d83c9b6.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS3-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a67551c8-274c-5453-b356-767fc257611f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS3-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/427a45e0-058e-5ba6-b1ea-84abd6a321fc.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS3-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b119e527-2439-51bf-b05d-e2d767396b2a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS3-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9d354aaa-7679-554a-92ae-4bc9caeb1e06.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS3-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/2c2423c1-5427-5634-8567-f256d3ec717c.m3u8",
           "referer": "https://sgcdnseriesn.xyz/"
         }
       ]
@@ -2568,6 +2862,286 @@
       ]
     },
     {
+      "name": "Single’s Inferno Season 2 โอน้อยออก ใครโสดตกนรก ซีซัน 2 (2022) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS2-1.jpg",
+      "stations": [
+        {
+          "name": "Season 2-ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS2-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/f200c0fa-d562-546d-b144-7e49bcc8a5fa.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS2-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/deaa440c-2902-5c17-b0c0-1edbf317d8f8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS2-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e0f6691a-f83f-5ed7-aa4e-8240d86090a1.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS2-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c20623aa-e626-54b4-b45c-f084c163ede5.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS2-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/fc0b933a-5519-5ab0-a2c8-14f074f6327a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS2-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c7c297c3-b8bb-59f7-b2c2-1fa16f4747eb.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS2-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/04075d10-d8cf-5f54-afdf-eb87bb47aa6c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS2-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/5cc92bb9-35eb-537a-b893-4cc34b5324d7.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS2-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/594d9f53-c1a2-5ce3-bc39-3dac377991b6.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS2-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e2f60696-a47e-5293-9249-55b98a0e9669.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Single’s Inferno โอน้อยออก ใครโสดตกนรก (2021) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS1-1.jpg",
+      "stations": [
+        {
+          "name": "Season 1-ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS1-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4bdd3767-f42f-51fd-9674-6faf3420d846.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 1-ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS1-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a91a8f57-ed46-50f9-82eb-0989669f8cb1.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 1-ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS1-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7a41ab80-4048-5d86-839c-8056f2402441.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 1-ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS1-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/2692cc45-1aca-52fb-8b2c-d9a54e0a27b7.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 1-ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS1-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1a6ee43c-3733-517f-ba2c-da5e148617fd.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 1-ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS1-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b6e75da6-0cfa-5e07-a21e-6f45d419f7de.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 1-ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS1-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/acec1ea7-c123-5bbb-9e54-c4452b1fb3a8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 1-ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Singles-Inferno-SS1-1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/0fe1b2a6-4d94-5fca-b453-9aff77c07887.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Kung Fu Panda The Dragon Knight Season 3 กังฟูแพนด้า อัศวินมังกร ซีซัน 3 (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+      "stations": [
+        {
+          "name": "Season 3-ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/02bd695c-9317-580c-8eb5-7024b484bb2a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/6e76197c-94ea-5cf9-8c93-ae6c80c1ddb1.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1ec0d56d-19f0-58dd-9af7-f35a4ea7a684.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1ec1c15d-1427-5e52-b4b1-d5c5882ff1fd.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a175681e-ae1b-5082-b971-a7ca4ac1c709.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/73b51b51-f79c-5377-bf9f-12583b6deba2.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ed1d4a31-d756-53ff-ad38-358b3606f18c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/306c6c5b-b21f-5600-9a86-54ebff211d85.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/0f67a99f-b241-5bfe-8675-5af051e6f28c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/57d4bd97-eb59-59fa-804a-450871664b58.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/f70eaad9-d2ec-5324-8791-0d16596d9082.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3054b70c-d5da-5fab-b0dc-df5eb3cb288e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/83479d02-3388-5077-b43f-1faf7d9b075e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/de9c6250-50e4-5126-878a-33db837c4a79.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/46746b55-babb-56c9-80f8-0a5d3f7604e3.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/09f0a3b2-7caa-5af6-ad41-d31b21929ee3.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/f6041a7d-b107-522e-a477-ff78a908249d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/384cc694-452b-5247-b564-f0f320c91088.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Kung-Fu-Panda-The-Dragon-Knight3.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a7a9a4c9-bde3-596d-9a26-9c980f6a7a78.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
       "name": "High Tides ไฮไทด์ (2023) [Full]",
       "info": "HD SoundTrack(TH)",
       "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/High-Tides.jpg",
@@ -3094,6 +3668,111 @@
           "info": "พากย์ไทย",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Life-With-the-Walter-Boys-2023.jpg",
           "url": "https://sgcdnseriesn.xyz/view/2da7cdd7-456b-5f4f-8455-c053eda033ec.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Analog Squad ทีมรักนักหลอก (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Analog-Squad-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Analog-Squad-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/2c2e9f84-457e-5a4e-8f30-d9903a61d859.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Analog-Squad-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e1e7f23a-e2a7-5264-a85d-3ec2b91d3607.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Analog-Squad-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1a09789f-cd4c-5995-ab64-20bc959c0f88.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Analog-Squad-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/be916c2d-4b4f-5589-b860-b61a4c741385.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Analog-Squad-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8c2a5f24-8f19-50e9-9262-ee380c18267b.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Analog-Squad-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/5514a8eb-53b1-57aa-897d-a509096c74a7.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Analog-Squad-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ce681a9d-c9e2-5696-80e9-c65459b26ee5.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Analog-Squad-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/52857a9e-b7b5-536b-86b8-c24d536f6ef7.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "2 อัจฉริยะ เมนูคณิตทฤษฎีแฟร์มา (2023) [Update to 5]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Fermats-Cuisine-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Fermats-Cuisine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9e8b180d-2282-5f44-a074-771ea354c9ce.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Fermats-Cuisine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/f58678c2-7829-5c52-8e06-736658b37274.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Fermats-Cuisine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8bd4f8c9-657f-567d-b32d-0739cba9591f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Fermats-Cuisine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/704207a4-5498-5246-90ca-9d0b5eefa08d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/Fermats-Cuisine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3c8a8370-e765-50ec-a4a4-4a7a8ad8a339.m3u8",
           "referer": "https://sgcdnseriesn.xyz/"
         }
       ]
@@ -3815,6 +4494,3309 @@
           "info": "Sub",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/A-Nearly-Normal-Family-2023.jpg",
           "url": "https://sgcdnseriesn.xyz/view/8c3bb492-5fcc-5908-aa7f-d86b777a5d59.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "The Real Has Come (2023) [Full]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c84fa415-be05-519d-a4b9-3c79d3f6a514.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/34026a6c-bfcb-5366-a386-ee8806b04169.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/221052b3-fb61-598a-bebf-391df2d6b7a8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ae8b4d97-9492-5949-8ab2-a96f3b317e5a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3d65f7ba-5882-5b98-99f9-905e7c32fd6b.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4f89ad3f-5b49-5bf1-8c76-d29c61fca9af.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8281dc38-a8a2-5fbd-b374-25c9b04359cd.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8e537ae1-bb36-51da-897c-075e6241fbe3.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4219273c-027b-5877-ae80-7860ccc0a195.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a76c5b60-df49-5602-98c9-02eeffe6950f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/47edb5ec-148a-533c-9590-39656f459fa9.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d560ddf0-6fda-5cbc-99ec-4594ebeacae2.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e7234aaf-78e0-5587-988d-9aa455a8a4fe.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9c7405c6-9366-54d6-98fc-1b204d8f0f1a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b2a44520-5186-5a59-85bc-b3ea2be65911.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3b83b436-4f0a-5c71-94c7-bce4be686f46.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/5c0f0f1e-ed59-5556-ac38-f63274d58d6e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7bb4deb3-c09a-5fb9-bf65-02c2659dcf67.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ea77472e-0789-5d9f-83fc-15017621075f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c0d3ea90-c933-5d97-afb9-8ee0b145e601.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/40a82ba9-edc2-587b-8bfd-50517ff2052e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/720e6a07-6861-583b-a4cc-c7da3bf3c9dd.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/5817c245-7609-5e7f-b432-923c29e1915d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/cbd98ee3-096f-540c-a547-c08259bbdbe4.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a76ee188-4d7c-5e3c-bed3-c0c6830553fd.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4dc787d4-56c1-5a8f-a4ec-9a44651aceaf.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/257bbba6-29d0-5964-b6da-851609432c12.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d8f737de-e273-5ce0-83f8-2761d1806ce3.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c108a295-d921-565e-abaa-a66943cc931c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/27bd985c-4f8b-5794-be50-b1d8472ecd3d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c8e43c89-9249-5091-be83-6cb24d577281.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/31f69588-4f29-5ede-b14f-e33d86665c55.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 33",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1f5bdb3b-937a-583a-bbbc-c006ce3de338.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 34",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a77034e3-e2f9-566d-92b1-c38732ab664d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 35",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/bdb9414a-078f-59f3-b2c2-db8b1df62dd9.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 36",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/dd769646-20ed-568b-82d7-7526e182d3ec.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 37",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/0658c1ca-18f4-5193-b028-b6aed4826f9a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 38",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ee45943c-5d35-5d3a-a6ac-7edb04af20c5.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 39",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d9f590d2-11c8-5f28-bad2-48312a296552.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 40",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/640a5f0e-440f-5985-9457-56c0228d4871.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 41",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8097cbc1-c5f5-54ea-ba9e-3be369fc60ee.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 42",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/70f8c9fa-60f4-5628-adf9-0327534e2e0e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 43",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/90904b95-6dd4-54dd-8008-f16330c69ac6.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 44",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/fdfa535b-5b29-5278-a5d8-fa4590d6c6d8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 45",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/fc1fc3ed-24ae-579e-ae8d-37095e5b4356.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 46",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8ecdfd21-b312-5c3d-b75c-a0a52c9c962c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 47",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/cc5a398d-03ca-51e7-93d4-ebaffc726874.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 48",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ccfc0a80-3bfd-5427-97ef-1b4bb57cf6a1.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 49",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b8d80f3f-3aec-589e-bf1b-2b05deacde4d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 50",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/The-Real-Has-Come-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/dd9c3ea6-6c70-5e20-969e-d10e20c78e4d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Strong Girl Nam Soon สาวน้อยจอมพลังคังนัมซุน (2023) [Full]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/abf3dffa-4446-51a2-b18d-a7d17b141032.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e7995299-ee7d-5d18-82db-c1689905edb1.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/32f520a0-784e-5528-95b8-6ceb693f4019.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e8d63846-ba4e-5a0f-8fec-89b106a3877a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/6a78e95d-d01a-50fe-a3ec-1f974f142837.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a742b1f0-6ead-5953-93a6-e35d26c899b8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/97a4fc06-6c9b-5d64-bbcc-864c0634eae4.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d78796cd-b75e-52f5-832c-98258f4f3a3e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/92e91bd5-bc64-5267-86ea-7304260ec290.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/baf965c7-3a94-55f9-a2a2-4b9fd88e7f51.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/832ee8d8-7429-5e62-8f10-36098e189af5.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/6249005a-3429-5aa8-a093-28706be7dca2.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b33860ec-978a-5d1d-80c2-76f6c01ceb72.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3a5d8c88-06c4-59cf-8a32-8f41f10915dd.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8d7e38d5-60e4-5f5c-9913-a9c3627f46e9.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/39db07db-c6ee-5816-a099-3487a241adb4.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Replacing Chef Chico ใครจะแทนที่เชฟ (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Replacing-Chef-Chico-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Replacing-Chef-Chico-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/26455004-79c9-591b-9a61-b3938ae232dd.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Replacing-Chef-Chico-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/59846eb6-cbf9-5f8d-b4c8-bc005574a39f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Replacing-Chef-Chico-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e56557d9-4eb5-5f30-9128-de9fcd6d7102.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Replacing-Chef-Chico-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/eda8355f-ae5c-572d-998c-6427ce727922.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Replacing-Chef-Chico-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c79015ed-f1bb-54a5-9ceb-a2cf5959774f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Replacing-Chef-Chico-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/dcf6f136-7813-515b-8e6b-a2fa148aa21c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Replacing-Chef-Chico-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d3af43db-39aa-5142-84eb-a1f5618aa6d6.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Replacing-Chef-Chico-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a0041fbb-ab64-5f8d-8944-b5d169bef79d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "My Daemon ดีมอนของผม (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/My-Daemon-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/My-Daemon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/781933ee-1f78-5578-a016-23e86da0d3f0.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/My-Daemon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/0c7101f5-8570-5d65-8712-908d0d90a183.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/My-Daemon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/0d45dc3b-d898-52bc-9a99-d0d451fd4e42.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/My-Daemon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/07c5169c-d464-566c-9428-ea37ca490b08.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/My-Daemon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/bc7bc95c-3cea-5348-a439-77bce3ed195d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/My-Daemon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e3060928-8ce0-5782-a502-25e78bc83d09.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/My-Daemon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7313a4a8-ce00-5071-8759-cc263da9545e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/My-Daemon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ffb100ce-9065-5ca9-9fe6-6e30bc31f1f9.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/My-Daemon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/fe70e6a6-1384-5866-96ba-dd72ce7c2cc7.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/My-Daemon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/653abdcf-678b-51ca-9ca8-92ef7acdc98d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/My-Daemon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d381274e-7641-50e0-a73a-661775709975.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/My-Daemon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/afcd1387-85f7-5a8c-8d89-3b2145576060.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/My-Daemon-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/293bf452-6132-5262-bce2-d007a59f562c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Cigarette Girl ความรักควันบุหรี่ (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/30cfe90f-5703-520c-a174-c8da572171ea.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/63f1d356-11d6-5377-bfce-707dc6e4c0d8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/0ad625f2-ee56-5189-a89e-382d1cf1f173.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/db5883da-ce56-5a1f-9c01-48161ccc90f4.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/35641e85-abc2-5c48-88d4-ed0a1dc4d1e3.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Blue Eye Samurai ซามูไรตาฟ้า (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/5460dea9-d4e0-5b58-b022-f5ba560f1141.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/0289bc28-4707-5595-a2e9-8f5fc786829e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ef6987dc-5d00-5832-89f5-5e93b0e4345f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b66cc978-14a7-53ec-96d7-47903ab1ca81.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/84db8863-e901-56bf-b2ef-d772d40c5da1.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/cc4bacbb-e1cc-5581-b20f-575c02a95ae4.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e8acfa44-4fc7-5981-9cb0-f2a601fcf5aa.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e70c7efe-7043-58d6-a79a-3f76f757b41c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Squid Game สควิดเกม เล่นลุ้นตาย (2021) [Full]",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1f73505d-b23a-5195-a7f4-284a6f4a05e9.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/78ab9e83-39b4-5a43-86dd-05fd9faaec6a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7bef0fc9-b7d3-5c11-bbe8-52162ed60155.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/06a54aeb-d1f5-551d-aefb-b6366d87c671.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/6c9acbb5-3e2b-5a7f-bd22-217502b3a5a0.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d85090f1-aa58-5383-a2fd-c52df03ed474.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/110e1ff2-fde8-53c2-8092-cf89d39423bc.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ac38678b-8dda-5678-8c95-e943a2dfec69.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/Squid-Game-2021.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d14136e8-7191-5064-ba14-a80547adcd13.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Resident Evil ผีชีวะ (2022) [Full]",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/rpbVi3Bpz0rnRhSUG5D1Aajaibb.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/rpbVi3Bpz0rnRhSUG5D1Aajaibb.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b316cff7-8d90-57c8-8d58-7421664fd71d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/rpbVi3Bpz0rnRhSUG5D1Aajaibb.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b4fe095e-f996-5460-b842-833e695a86ef.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/rpbVi3Bpz0rnRhSUG5D1Aajaibb.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8ef833c0-2bd0-51c8-817b-09ee4f84f2ee.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/rpbVi3Bpz0rnRhSUG5D1Aajaibb.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7c8ffab5-e3e8-50bf-9d10-8a9faf5177b4.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/rpbVi3Bpz0rnRhSUG5D1Aajaibb.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3487502a-209b-5480-98ad-8e4661ac2ecc.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/rpbVi3Bpz0rnRhSUG5D1Aajaibb.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/5a6d65e8-0c50-5d29-92b8-ce39b63e277b.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/rpbVi3Bpz0rnRhSUG5D1Aajaibb.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/dfc1fa09-9b8d-50fe-ad0d-5b93ff369ac3.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/07/rpbVi3Bpz0rnRhSUG5D1Aajaibb.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/bd964424-dfce-5ed1-8feb-4f8d63e500d5.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Shadow and Bone Season 2 ตำนานกรีชา ซีซัน 2 (2023) [Full]",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Shadow-and-Bone-S2.jpg",
+      "stations": [
+        {
+          "name": "Season 2-ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Shadow-and-Bone-S2.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/dce07a67-8953-575c-a380-cff7178af6bb.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Shadow-and-Bone-S2.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b05f4af0-2e57-5dc5-a44e-0687cc06c14d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Shadow-and-Bone-S2.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ee7a192b-059b-542e-ab7f-8057b9a8e42b.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Shadow-and-Bone-S2.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/73038ac8-2e81-57b8-ab09-7c87c40e765b.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Shadow-and-Bone-S2.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a3a5032d-e580-5962-9a93-b0ffa6ff8588.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Shadow-and-Bone-S2.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ff758476-9a10-5e96-a92b-e1a45c3ee361.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Shadow-and-Bone-S2.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/2fa97c2f-7d4f-511d-969d-802ee063de83.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Shadow-and-Bone-S2.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e590f335-67c3-5cb0-9cf3-dd32d552deff.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "The Glory Season 2 เดอะ กลอรี่ ซีซัน 2 (2023) [Full]",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/the-glory-202ss23.jpg",
+      "stations": [
+        {
+          "name": "Season 2-ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/the-glory-202ss23.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4d3fc043-4a4a-5ec4-ac07-ed176f60f1bf.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/the-glory-202ss23.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ba9b380f-351f-5c6a-b9dc-3ccb01a6ed56.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/the-glory-202ss23.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/394cd158-3a6d-51a4-b159-d24cc67299cd.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/the-glory-202ss23.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3ab236b7-55e5-54bc-b856-a4db4cae3c8d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/the-glory-202ss23.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3737de26-e4ec-510c-a7e3-5b9923902b4e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/the-glory-202ss23.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/968d5ea5-1e55-5b2a-836b-c9e11cf9340b.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/the-glory-202ss23.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1c4e190c-d770-5b75-9ddb-e42c5e7c4fee.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/the-glory-202ss23.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/62dce755-b66f-5c89-9a9e-7ecc1871e618.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Holy Family (2022) [Full]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS1.jpg",
+      "stations": [
+        {
+          "name": "Season 1-ตอนที่ 1",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4e644a45-a640-52c8-974c-379795370d6b.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 1-ตอนที่ 2",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e9ee2e7b-7a07-5ea3-8e44-275e6ab919e9.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 1-ตอนที่ 3",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d94225e9-9423-5e60-983f-878dac2b9aba.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 1-ตอนที่ 4",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a4a7fc28-cf63-534e-81a9-f1a2a6f692f9.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 1-ตอนที่ 5",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8cabf41a-8ecc-5c0a-8746-f874ec10ecfa.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 1-ตอนที่ 6",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3a80595f-bf2e-54c4-913a-5a1d2230f572.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 1-ตอนที่ 7",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/6844c0e2-293c-543d-a495-3e55247de05f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 1-ตอนที่ 8",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e12cbefa-6448-59f0-9df0-260d4c5cc450.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Holy Family Season 2 (2023) [Full]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS2.jpg",
+      "stations": [
+        {
+          "name": "Season 2-ตอนที่ 1",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS2.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/594d000a-9c2a-5049-9c5d-3932d607afdd.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 2",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS2.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/f6843453-25e5-5bba-a3a3-ba9f57e616e4.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 3",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS2.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/f0381653-1310-58da-9504-f3e6ca2650ab.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 4",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS2.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/f41baff0-b67e-55c0-98fa-fe74eb091cd0.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 5",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS2.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/0c98b88e-5343-59a2-b492-f9c628d1d998.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 6",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS2.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d5074a8d-22e9-517f-aa68-4dba597b5131.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 7",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS2.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ef4a7b94-51f6-5b3a-8cd1-24e1a0c337c0.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 2-ตอนที่ 8",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Holy-Family-SS2.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7c3900af-9616-56fc-8088-759e6d33fc9e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Scott Pilgrim Takes Off สก็อตต์ พิลกริมออกสตาร์ท (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Scott-Pilgrim-Takes-Off-SS1.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Scott-Pilgrim-Takes-Off-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/fb33cccf-e50d-5529-a793-9d441145bc41.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Scott-Pilgrim-Takes-Off-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a0830844-7bb7-548c-9c3e-8adf90b5fcc7.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Scott-Pilgrim-Takes-Off-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a264b328-0409-5f40-a965-b0d0546107cd.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Scott-Pilgrim-Takes-Off-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/83bdc995-ac80-5459-9194-73e5dedba755.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Scott-Pilgrim-Takes-Off-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/cbbe4396-67ed-590c-a1fb-d77fffc619c3.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Scott-Pilgrim-Takes-Off-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8b3da280-ee79-5229-9ba5-8bafebb6a2f4.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Scott-Pilgrim-Takes-Off-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/307f5766-a606-59fc-91b4-a60ab7d30b8d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Scott-Pilgrim-Takes-Off-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d2a3d055-2129-5506-999c-ce9c127f85da.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "CoComelon Lane โคโค่เมลอน เลน (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/CoComelon-Lane-SS1.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/CoComelon-Lane-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/657686e9-da9f-5dff-be5c-e1fa00eaf123.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/CoComelon-Lane-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9f050d31-e7eb-53d4-8e52-71b4746b2c2b.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/CoComelon-Lane-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/01b0ffe1-d8ff-57b5-a3b7-2e384a044db2.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/CoComelon-Lane-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e94c6962-f7f0-5fa7-b36a-40d9deee53c5.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/CoComelon-Lane-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/172bb715-1d91-5110-b082-6430a1403ccf.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/CoComelon-Lane-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4ad61d89-4283-5d9d-a0e2-5dc41ba94ead.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/CoComelon-Lane-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9ba2c58b-de6f-5e0b-838c-2786fcc76e5b.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/CoComelon-Lane-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1bad85dd-fd10-5d8a-b75b-d18bdd00c46d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/CoComelon-Lane-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/71fe98ea-298e-547d-9852-5a8cafdfbb38.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "The Railway Men The Untold Story Of Bhopal 1984 คนรถไฟโภปาล 1984 (2023) [Full]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Railway-Men-The-Untold-Story-Of-Bhopal-1984-SS1.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Railway-Men-The-Untold-Story-Of-Bhopal-1984-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/787b9522-7b99-5a7b-b58e-71b5aa0a67e1.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Railway-Men-The-Untold-Story-Of-Bhopal-1984-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/0a011eac-40f3-59a3-8f9e-37f89dc1391b.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Railway-Men-The-Untold-Story-Of-Bhopal-1984-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c965f7c5-74d2-5538-8613-ea78a601471c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Railway-Men-The-Untold-Story-Of-Bhopal-1984-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e7f455d0-5351-5c38-8a72-f1490db1da79.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Troy Fall of a City ทรอย วิบัติแห่งเมือง (2018) [Full]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Troy-Fall-of-a-City-SS1.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Troy-Fall-of-a-City-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/886ab03a-9d61-545d-b616-7f1d87c57ca6.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Troy-Fall-of-a-City-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/37115903-27e3-51d5-853a-ce5e8e217dbf.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Troy-Fall-of-a-City-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9f09e625-80c0-5403-abc1-39e2de5bf2bb.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Troy-Fall-of-a-City-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3121a1ed-2f41-51f4-9e7e-9219fdda6d66.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Troy-Fall-of-a-City-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/72862afc-61fe-587c-9adc-bc860b431294.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Troy-Fall-of-a-City-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1e767bb9-ec2b-51bc-9d4d-561b0b0b5224.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Troy-Fall-of-a-City-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/28e1c0e3-d130-5566-be9e-13581b3c63ba.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Troy-Fall-of-a-City-SS1.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7376f348-d46f-5ce8-8baa-1fffe95cdabd.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "พนมนาคา The Bride of Naga (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d2a4b386-bbdc-5132-9fa6-c37240966310.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/87d437b9-c4cb-532e-8fde-a175c4f1c36f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a761bc1b-613b-5fea-825b-4e88ffca406c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/145e006b-a3e5-54b8-8deb-d93ca38f5a82.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b11e8985-f571-5f5d-ac05-a9f92c9ae976.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/2ec68ef3-58ec-5777-a1d1-1f8d9f1b4cf7.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/5f475359-888a-5cc6-8cf8-34eabdc3b8f8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/bf3a77a1-4fd9-5609-bad6-7569c0354d8d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b177eec2-7bab-5267-96d4-4a35c6809c5f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/14a83ab5-41f2-594a-8b73-3ab3090bc6e4.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3c56fc37-0020-5af1-a4da-2f42ab2e0071.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/635b5b7c-d552-5566-880f-bba2618c2058.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1961083d-1ee0-5840-bad9-cff437e51976.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/29a9d9ec-b472-5640-b844-940ffd394eb6.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ddd2c695-3c17-5649-9fc3-cf0ca497478b.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/2789ec50-3853-5166-a697-fd44ea47d579.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/39c2c2cc-fe4f-5107-ac2d-af799b274bbe.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3bd78ea2-8e72-5451-a2d0-5dfc63fcebd6.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Bride-of-Naga-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/10522de1-0c26-5bde-82cc-6ec791d5f5af.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Feedback เลือนราง (2023) [Full]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Feedback-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Feedback-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/545daeae-ffa2-5f7c-9209-771a2157ed6f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Feedback-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/2328459b-41d1-54a2-9a3e-c2e252f7841c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Feedback-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/fb986bda-9d36-512e-8974-66fee9a48971.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Feedback-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8c0d5680-82da-5ef9-8d54-1e0c53ee71bb.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Feedback-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/565c7cc4-215f-58f2-86c7-21d27c38726a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "How to Become a Mob Boss เส้นทางเจ้าพ่อมาเฟีย (2023) [Full]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/How-to-Become-a-Mob-Boss-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/How-to-Become-a-Mob-Boss-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/636fee06-afd3-57ed-9980-aef551510a92.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/How-to-Become-a-Mob-Boss-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/907f7e31-6dc9-5d2e-8174-6f7676bf125d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/How-to-Become-a-Mob-Boss-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/14937404-c50c-569e-a590-84b5dab8027e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/How-to-Become-a-Mob-Boss-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/375e85f1-4768-5db6-a34b-4522ad8b643f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/How-to-Become-a-Mob-Boss-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7c783cec-c95f-5753-b5f8-454ff60e24ff.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/How-to-Become-a-Mob-Boss-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1edbfcba-f9e9-50c7-8cde-a11271c2896f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Crashing Eid กว่าจะได้ฉลองวันอีด (2023) [Full]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Crashing-Eid-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Crashing-Eid-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7fc40386-1179-50a5-8bf0-2be97e2da13c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Crashing-Eid-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/5d76e944-60d8-5023-9007-8d393b9208f5.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Crashing-Eid-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b33802ff-982e-590e-b302-5a3569d55493.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Crashing-Eid-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a8523e45-0c9b-5565-be48-a3c008fd710a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Suburræterna ซูเบอร์ร่า นิรันดร์กาล (2023) [Full]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Suburraeterna-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Suburraeterna-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c5748897-65b3-5ff9-bc26-4ec3fc9f2875.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Suburraeterna-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1989124d-e6fb-515e-9407-cff4df191ad3.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Suburraeterna-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/f150b11f-8263-5f27-8928-b8a65707d2f9.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Suburraeterna-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/157e9473-d1a8-560c-b2da-4910b0b75174.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Suburraeterna-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ca526f38-360a-5be1-86b5-fceaf124a6f7.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Suburraeterna-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ee129f47-651f-5451-8185-1eaddb2effb1.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Suburraeterna-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c2d2b60f-8a7a-5318-86fc-7db553005a56.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Suburraeterna-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/360e63f2-9204-5478-a136-498e12db0a58.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Criminal Code รหัสอาชญากรรม (2023) [Full]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Criminal-Code-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Criminal-Code-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ca515496-9cab-5161-b0cd-540078838f5a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Criminal-Code-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/587af5da-3771-5781-88b5-728d23504827.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Criminal-Code-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/14775551-d437-5b98-a354-51af85a682a0.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Criminal-Code-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8f682021-fff6-528f-b58a-d784c99822cc.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Criminal-Code-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/17c34f96-33e6-57bf-914c-f7f0f05d5fe4.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Criminal-Code-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/384b177e-799c-5631-afcb-fb443ef1db04.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Criminal-Code-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/667ab7a2-faae-57df-a94c-c83253506e62.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Criminal-Code-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ee8f69dc-83a6-56d7-b798-edf72090c0b8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Akuma Kun เจ้าหนูประกาศิต (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Akuma-Kun-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Akuma-Kun-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/935dafcf-1ecc-5bfb-93c3-006a2c4d049f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Akuma-Kun-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ae2812f9-2a05-594e-ad92-33e85fb04c80.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Akuma-Kun-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/368a485f-44b3-53d5-9176-e02f4fe4681c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Akuma-Kun-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/84eb4c47-e766-52cf-9d38-ebe31b665567.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Akuma-Kun-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/be53ddad-0455-56c9-bbf1-5f2d8932dfd8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Akuma-Kun-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/156fddda-3ee7-55fe-8814-af92c538853d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Akuma-Kun-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/0b86d2e1-b3ab-5571-905c-5063c7f11215.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Akuma-Kun-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/5d0243dd-1b39-5a9f-bea2-d88338cf04a5.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Akuma-Kun-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/67c4c5dd-346f-50e2-a278-4080dc51f732.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Akuma-Kun-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d59359d5-e17f-59c7-9c9f-5fa38c6e765d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Akuma-Kun-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b2517023-07da-571f-9f59-3ec0e267250c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Akuma-Kun-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4e9187ea-da0a-508a-ad1b-420df16a56b2.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Erin & Aaron (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Erin-Aaron-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Erin-Aaron-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/0653a74d-3ea9-58d8-8d93-7154c7cd6429.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Erin-Aaron-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/bdc4dac4-e86e-536b-a4a9-99dc7dd4a21c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Erin-Aaron-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b31cfed2-0e5b-586a-b152-5a9739439659.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Erin-Aaron-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/653d8c1d-8e3b-521b-a7b0-b855de29a0d8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Erin-Aaron-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/30cb55ee-b1c5-55c8-98b6-abb202a25558.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Erin-Aaron-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7ff5a62a-71bb-58be-bb93-6e8b3adcfd77.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Erin-Aaron-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9111b163-0145-526b-a5d0-377462c75499.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Erin-Aaron-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/445d163b-f37e-5466-a93e-0415e8861eb8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Erin-Aaron-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/61654982-2026-5d4e-a64f-d88343413dea.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Erin-Aaron-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8731fe1b-c34e-5e9a-a917-eecf72b81d10.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Erin-Aaron-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d7bd5c0e-f207-58e6-9365-aea3e335610f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Erin-Aaron-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1fb7a3c8-3989-58f0-811b-6347df83e5e6.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Erin-Aaron-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/cf396e9f-3e89-5d2a-8793-92adbde16811.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Unicorn Academy โรงเรียนยูนิคอร์น (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Unicorn-Academy-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Unicorn-Academy-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9acc558f-0014-512a-bf4a-6d6433be648e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Unicorn-Academy-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/dfe49ed6-2c13-5f67-81a9-df725f9750de.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Unicorn-Academy-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a8c73b09-85b9-5111-b508-8a079a6326c7.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Unicorn-Academy-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/edb3f3c1-9e44-5345-8d83-f88eef63aa26.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Unicorn-Academy-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/32622cbf-223d-59f6-aa33-74dabd8d5f3c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Unicorn-Academy-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/53f7a24a-c7b6-587e-a6f7-35b0d0ed1653.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Unicorn-Academy-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ffedc8f7-6d55-5032-beed-0d789ee5c01d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Unicorn-Academy-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e265ad69-444b-5ede-ba10-dbc55da5d9d0.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Unicorn-Academy-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/11fd5f0f-6278-5b8f-b696-3c80fafb4189.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Onimusha โอนิมูฉะ (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Onimusha-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Onimusha-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/6c745584-aadb-5bd1-922a-6ddd156fee2a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Onimusha-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/99d32516-9c55-5154-a7a2-9e0a7f7fd1b7.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Onimusha-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/200cf69f-14ca-5621-8a28-1bef8892b263.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Onimusha-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/22330ce1-4cf9-5fec-9374-c4db3096d118.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Onimusha-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e2ec8123-6b9d-55ae-81f6-cfe528f2540a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Onimusha-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/0fa6e051-ec2a-57c2-9197-6e3010193865.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Onimusha-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ec38f5bd-48ed-52b1-a1a7-794129e3b713.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Onimusha-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/68e8d68d-f073-5893-bbc2-b14500254ed3.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Daily Dose of Sunshine รับแดดอุ่น กรุ่นไอรัก (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1657871d-aac3-5eba-bc36-fc087e3130ed.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8997ce42-63d9-5b32-8ab8-a5f0a96529e0.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/6766504a-c978-59f6-9201-a069bff89a5c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4dd79cd2-62ae-5d31-8a96-ca3b68475cd6.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/63c01887-21de-5dd4-a4fd-9fc77eac2b8c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/442c7a41-f519-5393-b1d2-20c09563de53.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/eb8c5f92-1b9f-5d83-8584-204af25ad787.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d884519f-81ab-5492-8fc8-9b322fb7baa4.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/61ddde9d-c31b-5b19-b221-0ba6ba43ec6c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/99b29b4b-5664-5236-b363-f0a6ef969a63.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9be3a1d2-535e-508d-974d-226aa76d9d84.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8652130d-28b4-58ca-a7df-6822608fb3ed.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "All the Light We Cannot See ดั่งแสงสิ้นแรงฉาน (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/All-the-Light-We-Cannot-See-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/All-the-Light-We-Cannot-See-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/69e20eed-d41c-5350-b9e4-e7137e147158.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/All-the-Light-We-Cannot-See-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/f53acb53-a56e-54f9-800b-dc09da44220d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/All-the-Light-We-Cannot-See-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e9632f84-fbb6-570b-a487-8a7735288b26.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/All-the-Light-We-Cannot-See-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7152be23-f831-5bbb-82f6-f7c06661ff7f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Captain Laserhawk A Blood Dragon Remix กัปตันเลเซอร์ฮอว์ค บลัดดราก้อน รีมิกซ์ (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Captain-Laserhawk-A-Blood-Dragon-Remix-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Captain-Laserhawk-A-Blood-Dragon-Remix-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/db17d842-4500-56d7-83c8-eb6a57d7d7f4.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Captain-Laserhawk-A-Blood-Dragon-Remix-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/0504ab5d-e1d7-5adf-b564-f0c6e0df0cfb.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Captain-Laserhawk-A-Blood-Dragon-Remix-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4cdfc944-a3b1-5ff0-b02b-2e0cc0a91d59.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Captain-Laserhawk-A-Blood-Dragon-Remix-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/18ef55a3-ceb5-519c-8685-f0b8a93dd963.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Captain-Laserhawk-A-Blood-Dragon-Remix-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/bbf63b6e-427b-5256-b321-0499d0810d9e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Captain-Laserhawk-A-Blood-Dragon-Remix-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1f5245c1-131a-5bde-9217-756e9b9ffb9e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "GOOD NIGHT WORLD กู๊ดไนท์ เวิลด์ (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/GOOD-NIGHT-WORLD-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/GOOD-NIGHT-WORLD-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/672a7450-5a0a-532a-97c5-c52b87c567d3.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/GOOD-NIGHT-WORLD-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3787b636-c4cd-52bf-bbb1-f3f73b462aaa.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/GOOD-NIGHT-WORLD-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3d2031e3-7f9f-5779-b8fe-3a725d9bdb45.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/GOOD-NIGHT-WORLD-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8dcdcc27-52b0-5bee-a697-0b8996bcc15b.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/GOOD-NIGHT-WORLD-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/010cd493-3678-5216-b393-4037968dee84.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/GOOD-NIGHT-WORLD-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/f4f7af44-4cff-5680-aaee-8364f8221864.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/GOOD-NIGHT-WORLD-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/80be5465-7d62-5a6b-82db-e24949237b12.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/GOOD-NIGHT-WORLD-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ec1e9c2d-733a-5f7a-bda8-0e13a410bcd5.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/GOOD-NIGHT-WORLD-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a6190873-3d03-5ee8-9c62-0b3d436cf189.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/GOOD-NIGHT-WORLD-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1f0b6d9e-308b-5796-b72e-beaf1faab9bb.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/GOOD-NIGHT-WORLD-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/fc7f1223-4421-5e71-ba89-dd45a1e668a1.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/GOOD-NIGHT-WORLD-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4b49a709-4311-5a0a-bc4e-c6684aeadb32.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "PLUTO ตามล่านักฆ่าแอนดรอยด์ (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/PLUTO-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/PLUTO-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1b6dc3f1-e29e-5e2b-9edb-4b4da7582d0a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/PLUTO-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1dd8e46a-9d00-582b-a5e9-2bfa4086838c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/PLUTO-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/22eb94b1-6e94-51e5-955c-347490519bcf.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/PLUTO-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/276ec110-5617-537e-b2da-41d70d123dc8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/PLUTO-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/6b02c8af-589c-5346-be45-816df2a35776.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/PLUTO-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/eb8b9d4c-b442-5022-8e16-a70cfd031f08.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/PLUTO-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/0245142b-b309-586c-b6eb-40a24d4469fd.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/PLUTO-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3084bd60-7a91-5c34-b959-bf9ca64043f5.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Get Gotti ปราบเจ้าพ่อ (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Get-Gotti-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Get-Gotti-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/33688caa-133e-5f76-bacd-1cb97b75759c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Get-Gotti-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/01b401a5-399c-50d2-9707-1028c27ceeae.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Get-Gotti-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/816a8ccf-ab4e-5a0e-9c92-4b06bc518127.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Life on Our Planet ชีวิตบนโลกของเรา (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/92dc0547-cb59-5f35-ad5f-de0acb3c4cba.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/fcf80d67-b9a8-5bf1-a4f7-4ffcc312448d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/65436e07-ea5c-5764-981e-d84c9250b2a8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/90d4c08a-317c-5452-acba-7971117d5961.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/68a97c95-e027-5d27-9529-c8e8445633e6.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7f37434a-60b3-5321-b0ce-a8e6a9580e5f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3715cf27-0ebd-5be2-89b0-0680f1e5797a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/562fda18-81be-5d18-93af-8a62d289f573.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Thai Cave Rescue ถ้ำหลวง ภารกิจแห่งความหวัง (2022) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Thai-Cave-Rescue-2022.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Thai-Cave-Rescue-2022.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e8885cc2-bccd-519a-8c0d-3a50a4fcdcd5.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Thai-Cave-Rescue-2022.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4a1c585e-c121-5b59-8e2e-5ccc11272669.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Thai-Cave-Rescue-2022.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/970a6fb7-a5b5-5a67-8f26-cf29623693e8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Thai-Cave-Rescue-2022.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/446ae77d-3b3b-5b9d-9a53-707021f9ad1e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Thai-Cave-Rescue-2022.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/25bdfbe9-dae0-5512-a190-5323e34ae0fe.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Thai-Cave-Rescue-2022.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/400e27bf-b7b6-5dba-a53a-fe3234f6fc1e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "I Woke Up A Vampire ตื่นมาก็เป็นแวมไพร์ (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/I-Woke-Up-A-Vampire-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/I-Woke-Up-A-Vampire-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/5b377338-cbe8-5344-868b-1047182423fe.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/I-Woke-Up-A-Vampire-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b595b4e9-55d2-5868-962e-26699b9ea07d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/I-Woke-Up-A-Vampire-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9a500e29-b24a-58da-b82e-e2b32d77e861.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/I-Woke-Up-A-Vampire-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9ed839c2-3e2c-5370-8861-8dae3e5030f3.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/I-Woke-Up-A-Vampire-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/817eae3f-f33b-576e-b6fc-9bcdba536dc8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/I-Woke-Up-A-Vampire-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8bd73d5d-bacb-5f37-8037-34f038fec230.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/I-Woke-Up-A-Vampire-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b9bfe2bb-9576-57b5-ac75-58b34614586c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/I-Woke-Up-A-Vampire-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/268e9cf9-48a7-5aa6-a9ed-0684b03acfb6.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Bodies ศพ (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Bodies-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Bodies-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4edc0b7f-e0e5-5cb3-b6ec-d97eb3cf2dd1.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Bodies-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/45b2412d-ccdf-51b6-beed-424c1fe42c5f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Bodies-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4790f533-b676-56d9-88d1-3a44c52e05a9.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Bodies-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7e0c74e0-df43-5d7c-bee8-d8d094e4e6c6.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Bodies-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/f518fd2b-47b3-5cc8-bca8-548be447bd7e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Bodies-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/de558714-5ea7-515a-ab22-2458305474b6.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Bodies-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/920482ac-62b7-505f-9540-d840726a67cf.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Bodies-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/26e962ed-4fd4-5ecd-baf5-f498a48e36c7.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Doona ดูนา ไอดอลสาวข้างบ้าน (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Doona-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Doona-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/fc89e6a9-8f8b-5675-9d74-5ae38fe70e36.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Doona-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8495e993-1eb7-5d33-93fd-cf92e6a97891.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Doona-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d0c7bf1d-412c-5220-8960-546f94c90c54.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Doona-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c7fc4ce8-8dd6-5e0e-ab21-97a436a760b7.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Doona-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c9c3b674-3d40-5de1-ae5e-a4d956a184f4.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Doona-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1bec90f5-34d8-5cfc-b6f9-41392ed09146.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Doona-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/46d02655-d233-5708-9f1d-2c246487c76e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Doona-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ec39d818-f6cc-53c3-baf0-d46a8fc06d87.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Doona-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/333c44eb-a226-5047-a308-4207673b57eb.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "The Night Agent (2023) [Full]",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-Night-Agent-Season-1-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-Night-Agent-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4b3be4e0-701f-5377-bacd-455073ff22fa.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-Night-Agent-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a12f98d3-dda4-52b8-beaf-00f44b8330a5.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-Night-Agent-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c4872a0d-f120-513c-8cff-3d3c6898806a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-Night-Agent-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/2c27ba16-fd4c-5a2b-b24d-42c5b9db978c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-Night-Agent-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/27e91dac-ae47-5e1f-9698-c03b2cd6ea9c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-Night-Agent-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/bca4fccb-ae85-5634-8613-bce5473f2989.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-Night-Agent-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/2b8d3b2e-8072-5847-9dba-a9ffb2bea309.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-Night-Agent-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7b94b5bc-77a6-51ad-ab2e-07c347126cc2.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-Night-Agent-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/863f4db0-b4a0-5da6-8dee-b208ebba7739.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/The-Night-Agent-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/2cfc2762-3d61-5f34-a0ee-041aa6ccf5ec.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Destined with You รักสุดวิสัย หัวใจไม่ให้เลี่ยง (2023) [Full]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/1c5d284b-c9af-5338-b44a-2b6161574268.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/99cd8c18-d828-5b5a-bce1-43a213e4abfa.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a4a4340a-dce0-57dc-86c7-fc4adfb86208.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e083d56a-6eb8-5062-b97c-ac1c6d1ec73a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8c5664e9-7cea-50a4-ad75-6e6df49dea84.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/abc941ed-f9bd-5dea-b08f-1b9fae06bd82.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/20cb6198-77eb-5bb9-8c08-3d3160dcfe78.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/27a3729a-ccb9-5f32-8172-2fce1fc63c7a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/0e0ea50e-f7d1-5fd9-862c-b3cfc9414141.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/943edc9d-bc2c-5cca-841d-044c8e91e233.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/6fc67e39-5b6c-5864-a248-3103f7a6fb34.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a0f57baa-e6d8-53f4-a911-ec39eb252364.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/4eb32a24-4129-505c-8469-c3906d8c30dc.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/da46fa62-8d3b-5bf6-a9ee-487a1bc308a6.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a1468cc6-a40a-5d75-95f5-65d8120d4055.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Destined-with-You-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7b62120d-53bc-5e47-b930-c6bd4791eb45.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "The Devil’s Plan (2023) [Full]",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Devils-Plan-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Devils-Plan-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7fc90bc8-7db3-5447-b1cc-ae4848082903.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Devils-Plan-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/dda66454-4109-5340-94be-be3af392d52b.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Devils-Plan-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/13f469a5-85a3-5e9d-b448-058f8ef61841.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Devils-Plan-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8f9ad7c3-9a03-5066-be7a-ee604f88566d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Devils-Plan-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e9fbb850-809a-5fb5-8e52-9b927afdd303.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Devils-Plan-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3b2e4187-5f95-54a4-848c-b3aeefd8ec2e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Devils-Plan-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e5fe7d72-b2cf-57a5-a6c7-2fddb564f010.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Devils-Plan-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b07d5c1a-5202-557c-9768-f08fe1b9c193.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Devils-Plan-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/0c6af45b-5de5-5e9a-8531-9bf2be402c89.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Devils-Plan-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/bf3be377-e3a5-5380-ab48-845d58b8d537.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Devils-Plan-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/148d4278-c1d9-53ad-adae-d21c7fb613f8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Devils-Plan-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/ac1755d4-20a8-5f84-a016-862cb9248574.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "The Fall of the House of Usher บ้านปีศาจ (2023) [Full]",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b7cdab43-0a49-594d-b29b-72e4117fa0c8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/aecbf9a5-5651-5875-a51b-4b7e60cf7472.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/730f2f33-aed1-5766-a5c6-ea2126fff8ad.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7e29c243-4df4-5ff4-895b-2e614b9f7e37.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a77fc7e1-7470-558e-b4df-a851eb460e84.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/832ee8e4-162c-5d70-9233-66d02ab42cb6.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/515322e7-ee07-55d8-a137-61884087af78.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d918446e-f152-5d77-84c2-503b7923fb31.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Everything Now (2023) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Everything-Now-Season-1-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Everything-Now-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/97af91b8-ac39-5a5b-8da3-687bb34e9f0f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Everything-Now-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3761bfa7-4c19-5530-a222-e9b39bf6a645.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Everything-Now-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8078b594-ffda-52f8-aa0b-51da03549b04.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Everything-Now-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/472192d3-83ad-5199-a376-f705f1c53d02.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Everything-Now-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/07958ff0-850b-5656-a688-e9ec5699c058.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Everything-Now-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b20a9c68-e68a-5a08-ba2a-3c619073728e.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Everything-Now-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/cd8a2a68-768e-5284-b7de-55b15680c9ec.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/10/Everything-Now-Season-1-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9160c901-fefc-5177-bc47-1455489271c7.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "คอบร้า ไค (2018) [Full]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/lLrKXnM3WPEtrPCd1aTHT6x3hn-200x300.jpg",
+      "stations": []
+    },
+    {
+      "name": "My Happy Marriage ขอให้รักเรานี้ได้มีความสุข (2023) [Full]",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/My-Happy-Marriage2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/My-Happy-Marriage2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/df34f5e6-a88d-59e8-b397-e869ecb74275.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/My-Happy-Marriage2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b73f9198-8624-58ee-957e-8a37780a4734.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/My-Happy-Marriage2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/85be4718-52c0-5d7f-9ce4-d17613445216.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/My-Happy-Marriage2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c17902cf-935f-56c3-b9bf-7d760d9a20e5.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/My-Happy-Marriage2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/cd3459b1-ca16-5cee-bc16-9fb7bfd49fb9.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/My-Happy-Marriage2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/cfcdf817-1fe4-506e-8098-2d30e8ceaacc.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/My-Happy-Marriage2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/15575a38-fbdc-5812-8ad4-06bf7c8f4f22.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/My-Happy-Marriage2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/660ed398-600d-564e-9818-dec2df1bc0f7.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/My-Happy-Marriage2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9529c16d-7105-5bf7-a4ce-dfd5de004648.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/My-Happy-Marriage2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/50e9f39f-6005-52d5-bc03-7f6e707085c8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/My-Happy-Marriage2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/cdd36dbf-2855-5652-90af-5afd2a254119.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/My-Happy-Marriage2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b8f73ff5-34fb-531d-a18c-cf048dc91913.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Lupin Season 3 จอมโจรลูแปง ซีซัน 3 (2023) [Full]",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Lupin-SS03.jpg",
+      "stations": [
+        {
+          "name": "Season 3-ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Lupin-SS03.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/159ab9a5-cda2-59aa-bfe3-a452b3d1f333.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Lupin-SS03.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/39b3016d-f25d-5627-a876-1f1f62b92eac.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Lupin-SS03.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/bd95378c-1ea3-574d-bbd6-32242c217507.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Lupin-SS03.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/edce1f2a-f6c8-5b73-8396-30d8742c4311.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Lupin-SS03.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b9ada469-c90d-5f7c-9bd2-156c6201a050.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Lupin-SS03.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/083169fc-cbb0-5802-9928-c458c5e0edef.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Season 3-ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Lupin-SS03.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/6b3cb41a-e38a-5f88-9681-359df603c64f.m3u8",
           "referer": "https://sgcdnseriesn.xyz/"
         }
       ]
