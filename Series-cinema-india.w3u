@@ -1,6 +1,6 @@
 {
-  "name": "ซีรีย์ใหม่ หนังอินเดีย ",
-  "author": "",
+  "name": "ซีรีย์อินเดีย",
+  "author": "อัพเดท 07/04/2024",
   "info": "",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Series-nung2hdd/main/Series-cinema-india.w3u",
@@ -57,6 +57,55 @@
           "info": "Sub",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Indian-Police-Force.png",
           "url": "https://sgcdnseriesn.xyz/view/842302da-2553-5301-b8c2-8b16bd2d2c7d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "The Village หมู่บ้านกลายพันธุ์ (2023) [Full]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Village-2023.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Village-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/552e7384-d86c-555a-959a-fa2a8fa0141c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Village-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c4002eab-44a9-5f61-8296-604920937865.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Village-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/348ddc0a-34a7-5f32-a60e-cbf697fb9be2.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Village-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e1cff566-3f79-5aee-8cf8-41b4532c5e85.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Village-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e30079ba-70c2-5d79-9d7d-9e714d201145.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Village-2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/988b5841-1f9c-550f-a8a2-8644f618f613.m3u8",
           "referer": "https://sgcdnseriesn.xyz/"
         }
       ]
