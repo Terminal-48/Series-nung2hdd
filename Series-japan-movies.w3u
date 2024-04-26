@@ -1,10 +1,87 @@
 {
   "name": "ซีรีย์ญี่ปุ่น",
-  "author": "อัพเดท 07/04/2024",
+  "author": "อัพเดท 26/04/2024",
   "info": "",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Series-nung2hdd/main/Series-japan-movies.w3u",
   "groups": [
+    {
+      "name": "Shōgun (2024) [Full]",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shogun-202422.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shogun-202422.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/32b4f680-fab5-5396-a47d-86a06ee82f2f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shogun-202422.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e84a2fcc-c017-583e-a1c7-b447a029a272.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shogun-202422.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d7f7e222-02d1-54fd-b049-ba99c2cad7ac.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shogun-202422.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/5c56bed6-a897-52cd-84c4-f51f0b8f6c21.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shogun-202422.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/271c44e4-ede2-5c11-8e03-0798fa9d345d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shogun-202422.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/88274335-46ea-5d04-b485-2bef285e7f1d.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shogun-202422.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/f853fbcb-6bc6-5199-bf7c-a624f6b3064b.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shogun-202422.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c4791c90-2157-5328-8e0b-564abe102572.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shogun-202422.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/95b8494e-a7ea-557e-a9a1-a0d54a29165a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "Sub",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Shogun-202422.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/55966280-686f-5e10-8a08-8363af197f14.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
     {
       "name": "The Silent Service ยุทธการใต้สมุทร (2024) [Full]",
       "info": "HD Thai",
