@@ -1,10 +1,73 @@
 {
   "name": "ซีรีย์อินเดีย",
-  "author": "อัพเดท 26/04/2024",
+  "author": "อัพเดท 22/08/2024",
   "info": "",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Series-nung2hdd/main/Series-cinema-india.w3u",
   "groups": [
+    {
+      "name": "Heeramandi: The Diamond Bazaar ผู้หญิงงามเมือง (2024) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Heeramandi.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Heeramandi.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9276e12c-afa4-5ad5-a7e3-5ee942495a5f.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Heeramandi.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/c49e168b-c5dc-5580-9a37-d979c8787256.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Heeramandi.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/eaf92549-8920-5a72-bce7-70e1c677bd84.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Heeramandi.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/acdd33ce-8ef1-5074-8e34-d72f55c9f639.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Heeramandi.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/eb66a1dd-d95e-5d5f-a7d3-759ce039f402.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Heeramandi.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a56815fc-a9f7-574a-98ab-4784a8af5747.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Heeramandi.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/b06e758d-d56c-5f5d-8e7f-bffb1a572ec9.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Heeramandi.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/6c4dd298-9ae2-5a74-9255-2ba6729cab09.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
     {
       "name": "Indian Police Force (2024) [Full]",
       "info": "HD SoundTrack(TH)",
