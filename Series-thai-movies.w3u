@@ -1,10 +1,73 @@
 {
   "name": "ซีรีย์ไทย",
-  "author": "อัพเดท 26/04/2024",
+  "author": "อัพเดท 22/08/2024",
   "info": "",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "url": "https://raw.githubusercontent.com/Terminal-48/Series-nung2hdd/main/Series-thai-movies.w3u",
   "groups": [
+    {
+      "name": "Doctor Climax ดอกเตอร์ไคลแมกซ์ ปุจฉาพาเสียว (2024) [Full]",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Doctor-Climax.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Doctor-Climax.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/23e1c02a-01d0-5888-82f8-d2510101fa2c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Doctor-Climax.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/49a836d9-a7d8-577e-9cf9-5669d7154f60.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Doctor-Climax.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/2052a536-b738-5681-ad82-8e94bfbe9743.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Doctor-Climax.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/9982c822-34a0-5389-aac8-bca5dad74513.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Doctor-Climax.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e38f0944-acc6-550a-a9aa-3baa0faf09d4.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Doctor-Climax.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/aa4816b8-9771-5b50-a24c-4c3b3a8131dc.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Doctor-Climax.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/34b601c4-aa1d-587e-be50-b871ed2f9028.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Doctor-Climax.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/e23f09da-e124-5a9a-8146-d9875561a255.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    },
     {
       "name": "The Believers สาธุ (2024) [Full]",
       "info": "HD Thai",
